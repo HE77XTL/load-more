@@ -1,0 +1,31 @@
+ul,li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#ct > li {
+	border: 1px solid #ccc;
+	padding: 0 10px;
+	height: 30px;
+	line-height: 30px;
+	margin: 10px;
+	cursor: pointer;
+}
+#ct > li:hover {
+	background: green;
+	color: #fff;
+}
+ #btn {
+ 	display: block;
+ 	width: 77px;
+ 	height: 30px;
+ 	line-height: 30px;
+ 	text-decoration: none;
+ 	border: 1px solid red;
+ 	text-align: center;
+ 	margin: 10px auto;
+ 	cursor: pointer;
+ 	border-radius: 2px;
+ 	color: red;
+
+ }
